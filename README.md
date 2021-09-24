@@ -1,1 +1,1 @@
-SapplyValues is a clone of the Sapply political compass, made to use 8values' UI.
+bannnedValues is closely based off of Sapply Values and is made to use 8values' UI.
