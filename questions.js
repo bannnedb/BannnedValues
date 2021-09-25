@@ -30,7 +30,7 @@ questions =  [
     {"id": 28, "question": "Freedom is the ability to fufil one's own desires.", "effects": {"auth": -1}},
     {"id": 29, "question": "The seperation of powers is very important.", "effects": {"auth": -1}},
     {"id": 30, "question": "It is okay to be a homosexual.", "effects": {"prog": 1}},
-    {"id": 31, "question": "Being a woman is a choice.", "effects": {"prog": 1}},
+    {"id": 31, "question": "Some women were born with penises.", "effects": {"prog": 1}},
     {"id": 32, "question": "Openess about sex cannot go too far.", "effects": {"prog": 1}},
     {"id": 33, "question": "Decline in religiousity is a good thing.", "effects": {"prog": 1}},
     {"id": 34, "question": "Same-sex marriage should be legal.", "effects": {"prog": 1}},
