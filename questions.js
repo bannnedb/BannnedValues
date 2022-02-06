@@ -6,5 +6,5 @@ questions =  [
             {"right": 1},
             {"prog": 1}
         }
-    },
+    }
 ];
