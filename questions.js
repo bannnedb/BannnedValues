@@ -2,7 +2,7 @@ questions =  [
     {"id": 0, "question": "In a capitalist system, hard work is by far the greatest determiner of individual success.", "effects": {"right": 1}},
     {"id": 1, "question": "A market economy is the most effective way to deal with scarcity.", "effects": {"right": 1}},
     {"id": 2, "question": "Equality of oppurtunity to succeed and fail should be guaranteed as a human right.", "effects": {"right": 1}},
-    {"id": 3, "question": "Public schools do not benefit society.", "effects": {"right": 1}},
+    {"id": 2, "question": "Public schools do not benefit society.", "effects": {"right": 1}},
     {"id": 4, "question": "Selfishness is a virtue.", "effects": {"right": 1}},
     {"id": 5, "question": "Free trade is a positive in the modern world.", "effects": {"right": 1}},
     {"id": 6, "question": "The value of a product is entirely reliant on the demand for it.", "effects": {"right": 1}},
