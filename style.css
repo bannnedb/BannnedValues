@@ -133,7 +133,6 @@ img.center {
     width: 50%;
     min-width: 500pt;
 }
-
 .button {
     background-color: #2196f3;
     font-family: 'Montserrat', sans-serif;
@@ -152,8 +151,6 @@ img.center {
 }
 .green_button {
     background-color: #4caf50;
-]
-.disagree { background: #a13232; }
 }
 .small_button, .small_button_off {
     background-color: #333;
